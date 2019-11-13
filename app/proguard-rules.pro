@@ -1,0 +1,2 @@
+-libraryjars libs/bdplayer.jar
+-keep class com.baidu.cloud.media.**{ *;}
